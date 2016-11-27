@@ -31,7 +31,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/dB9AV"><a href="//imgur.com/dB9AV"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Video Walkthrough](https://raw.github.com/jamboo/SimpleToDo/master/videodemo.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
